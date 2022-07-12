@@ -1,4 +1,4 @@
-# saumyakraj-Custom-Shell-and-Virtual-Memory-Management
+# Custom Shell and Virtual Memory Management
 
 ## Made By Saumyak Raj (19CS30040)
 
